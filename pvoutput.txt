@@ -1,0 +1,13 @@
+# Register at pvoutput.org to get your SYSTEMID and APIKEY
+SYSTEMID="18299"
+APIKEY="99b2da0282b59585f86c997c7a50d4955dfa9b77"
+
+# Number of inverters
+Inverters=2
+
+# Register at openweather.org to get your APIKEY
+# If OWMKEY, Longitude and Latitude is not supplied no weather will be 
+# read, and tried uploaded to pvoutput.org - together with your energy data.
+OWMKEY="49e25832a3fdc69c5fc34e9291936db2"
+Latitude=11.75316
+Longitude=55.34059
